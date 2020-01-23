@@ -4,3 +4,4 @@ cnf/.gitkeep
 *.map
 test.php
 .htaccess
+.php_version
